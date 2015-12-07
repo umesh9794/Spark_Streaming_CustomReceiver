@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="asm-3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/asm-3.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-el-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/guava-11.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/htrace-core-3.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jasper-runtime-5.5.23.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jersey-core-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jersey-server-1.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jetty-6.1.26.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jetty-util-6.1.26.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jsp-api-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/netty-3.6.2.Final.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/xml-apis-1.3.04.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/xmlenc-0.52.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/hadoop-hdfs-2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/hadoop-hdfs-nfs-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/hadoop_setup/hadoop-2.6.0/share/hadoop/hdfs/lib/jsr305-1.3.9.jar!/" />
+    </SOURCES>
+  </library>
+</component>

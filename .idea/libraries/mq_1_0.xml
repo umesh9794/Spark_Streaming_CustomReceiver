@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mq-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/mq/1.0/mq-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/mqetclient/1.0/mqetclient-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/mqjms/1.0/mqjms-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

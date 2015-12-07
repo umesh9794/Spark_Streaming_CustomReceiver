@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.ibm.dhbcore">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/com.ibm.dhbcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/com.ibm.dhbcore.jar!/" />
+    </SOURCES>
+  </library>
+</component>

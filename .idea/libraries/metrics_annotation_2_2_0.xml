@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="metrics-annotation-2.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/metrics-annotation-2.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/metrics-core-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
